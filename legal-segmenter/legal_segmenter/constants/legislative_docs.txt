@@ -1,5 +1,5 @@
-Annals
 Ann.
+Annals
 Assemb.
 B.
 Comm.
@@ -14,15 +14,13 @@ Fed.
 H.D.
 H.R.
 J.
-Legis.
 Leg.
+Legis.
 Misc.
 No.
 Order
 Rec.
 Reg.
-Reg.
-Rep.
 Rep.
 Res.
 S.
